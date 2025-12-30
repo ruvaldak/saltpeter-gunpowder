@@ -5,6 +5,8 @@ import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.ashlynnmods.saltpetergunpowder.items.SaltpeterItem;
+
 public class SaltpeterGunpowder implements ModInitializer {
 	public static final String MOD_ID = "saltpeter-gunpowder";
 
@@ -20,5 +22,6 @@ public class SaltpeterGunpowder implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("Hello Fabric world!");
+		SaltpeterItem.initialize();
 	}
 }
