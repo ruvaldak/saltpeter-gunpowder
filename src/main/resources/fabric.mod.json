@@ -3,15 +3,14 @@
 	"id": "saltpeter-gunpowder",
 	"version": "${version}",
 	"name": "Saltpeter Gunpowder",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A vanilla-friendly, immserive, well researched gunpowder crafting mod with no feature creep and no world generation tweaks.",
 	"authors": [
-		"Me!"
+		"AshlynnMods"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/ruvaldak/saltpeter-gunpowder"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/saltpeter-gunpowder/icon.png",
 	"environment": "*",
 	"entrypoints": {
