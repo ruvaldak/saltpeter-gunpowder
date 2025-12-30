@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        "minecraft:basalt"
+    ],
+    "result": {
+        "id": "saltpeter-gunpowder:saltpeter",
+        "count": 1
+    }
+}
