@@ -1,4 +1,4 @@
-<img src="icon.png" width="128">
+<img src="https://raw.githubusercontent.com/ruvaldak/saltpeter-gunpowder/refs/heads/main/icon.png" width="128">
 
 # Saltpeter Gunpowder
 
@@ -27,10 +27,10 @@ I looked into a lot of things, eventually landing on the different rocks in Mine
 ### Recipes
 ---
 #### Saltpeter
-<img src="saltpeter-recipe.png" width="304">
+<img src="https://raw.githubusercontent.com/ruvaldak/saltpeter-gunpowder/refs/heads/main/saltpeter-recipe.png" width="304">
 
 #### Gunpowder
-<img src="gunpowder-recipe.png" width="472">
+<img src="https://raw.githubusercontent.com/ruvaldak/saltpeter-gunpowder/refs/heads/main/gunpowder-recipe.png" width="472">
 <br>
 <br>
 
