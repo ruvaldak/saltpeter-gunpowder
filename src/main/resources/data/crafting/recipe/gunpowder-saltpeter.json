@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:blaze_powder",
+        "minecraft:blaze_powder",
+        "minecraft:blaze_powder",
+        "minecraft:blaze_powder",
+        "minecraft:blaze_powder",
+        "minecraft:blaze_powder",
+        "minecraft:blaze_powder",
+        "saltpeter-gunpowder:saltpeter",
+        "minecraft:charcoal"
+    ],
+    "result": {
+        "id": "minecraft:gunpowder",
+        "count": 4
+    }
+}
