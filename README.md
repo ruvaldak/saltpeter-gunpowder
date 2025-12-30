@@ -2,7 +2,7 @@
 
 # Saltpeter Gunpowder
 
-A vanilla-friendly, immserive, well researched gunpowder crafting mod with no feature creep and no world generation tweaks.
+A vanilla-friendly, immersive, well researched gunpowder crafting mod with no feature creep and no world generation tweaks.
 <br>
 <br>
 
